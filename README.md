@@ -147,4 +147,3 @@ docker-compose up --build -d
 - @igrishnyakov за [проект](https://github.com/igrishnyakov/Coursework-3rd-year/tree/main)
 - @p1x1n1 за [проект](https://github.com/p1x1n1/react-fullstack)
 - @alexvancasper за [обучение](https://github.com/alexvancasper/sshCollector)
-# docker-compose-guid
